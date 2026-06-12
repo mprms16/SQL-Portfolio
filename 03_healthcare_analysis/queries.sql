@@ -1,7 +1,7 @@
 -- =============================================
 -- Project 3: Healthcare Analysis
 -- Database: HealthcareDB (Kaggle Healthcare Dataset)
--- Author: [Your Name]
+-- Author: Maria Ramos
 -- =============================================
 
 -- DATA CLEANING PERFORMED:
