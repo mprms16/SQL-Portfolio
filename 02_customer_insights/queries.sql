@@ -1,7 +1,7 @@
 -- =============================================
 -- Project 2: Customer Insights
 -- Database: AdventureWorks
--- Author: [Your Name]
+-- Author: Maria Ramos
 -- =============================================
 
 
