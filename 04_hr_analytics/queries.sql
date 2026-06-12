@@ -1,7 +1,7 @@
 -- =============================================
 -- Project 4: HR Analytics
 -- Database: HRAnalyticsDB (IBM HR Attrition Dataset)
--- Author: [Your Name]
+-- Author: Maria Ramos
 -- =============================================
 
 
