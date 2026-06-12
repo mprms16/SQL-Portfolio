@@ -1,7 +1,7 @@
 -- =============================================
 -- Project 1: Sales Analysis
 -- Database: AdventureWorks
--- Author: [Your Name]
+-- Author: Maria Ramos
 -- =============================================
 
 
