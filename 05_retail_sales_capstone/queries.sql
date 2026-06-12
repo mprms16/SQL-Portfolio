@@ -1,7 +1,7 @@
 -- =============================================
 -- Project 5: Retail Sales Analysis (Capstone)
 -- Database: RetailDB (Superstore Sales Dataset)
--- Author: [Your Name]
+-- Author: Maria Ramos
 -- =============================================
 
 -- DATA QUALITY NOTES:
